@@ -1,11 +1,11 @@
 console.log("Hey this is tutorial 55")
 
-let a=5
-let b=6
-let c="Stark"
+let a = 5
+let b = 6
+let c = "Stark"
 
-console.log(a+b+55)
-console.log(typeof a,typeof b,typeof c)
+console.log(a + b + 55)
+console.log(typeof a, typeof b, typeof c)
 console.log("a = " + a)
 {
     let a = 9
@@ -27,13 +27,13 @@ const p = true;
 let q = undefined;
 let r = null;
 
-console.log(x,"   ", y,"  ", z,"  ", p,"", q," ", r)
-console.log("",typeof x,"    ", typeof y, typeof z, typeof p, typeof q,"", typeof r)
+console.log(x, "   ", y, "  ", z, "  ", p, "", q, " ", r)
+console.log("", typeof x, "    ", typeof y, typeof z, typeof p, typeof q, "", typeof r)
 
 
 
 let o = {
-    name : "Harry",
+    name: "Harry",
     "Job code": 5600,
     is_handsome: true
 }
