@@ -16,7 +16,7 @@ console.log(a)
 
 const a1 = 6;
 console.log(a1);
-// a1 = a1 + 1;
+// a1 = a1 + 1; [This is not allowed ! ]
 console.log(a1 + 1);
 
 
