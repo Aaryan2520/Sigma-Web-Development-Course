@@ -21,6 +21,17 @@ else if (age == 0) {
 else {
     console.log("You cannot drive")
 }
+console.log()
+
+/** Assignment Operator
+ *   = :     x =  y
+ *  += :     x = x + y
+ *  -+ :     x = x - y
+ *  *= :     x = x * y
+ *  /= :     x = x / y
+ *  %= :     x = x % y
+ * **= :     x = x ** y
+ */
 
 // Ternary Operator
 let a = 6
