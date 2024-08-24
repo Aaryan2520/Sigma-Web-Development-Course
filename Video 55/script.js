@@ -6,16 +6,16 @@ let c="Stark"
 
 console.log(a+b+55)
 console.log(typeof a,typeof b,typeof c)
-console.log(a)
+console.log("a = " + a)
 {
     let a = 9
-    console.log(a)
+    console.log("a = " + a)
 }
-console.log(a)
+console.log("a = " + a)
 
 
 const a1 = 6;
-console.log(a1);
+console.log("const a1 = " + a1);
 // a1 = a1 + 1; [This is not allowed ! ]
 console.log(a1 + 1);
 
@@ -27,8 +27,8 @@ const p = true;
 let q = undefined;
 let r = null;
 
-console.log(x, y, z, p, q, r)
-console.log(typeof x, typeof y, typeof z, typeof p, typeof q, typeof r)
+console.log(x,"  ", y,"  ", z,"  ", p,"", q," ", r)
+console.log("",typeof x,"    ", typeof y, typeof z, typeof p, typeof q,"", typeof r)
 
 
 
