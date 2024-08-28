@@ -5,7 +5,7 @@
 ### Run the following code on compiler
 
 ### Assign Variable
-```bash
+```
 export ZONE=
 export MON_IDENT=
 export CLUSTER=
