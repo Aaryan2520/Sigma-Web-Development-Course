@@ -19,20 +19,20 @@ export FRONT_IDENT=
 
 
 ## Comparison Operator
-```==``` : Equal to
+```==``` Equal to
 
-```!=``` : Not Equal to
+```!=``` Not Equal to
 
-```===``` : Equal Value And Type
+```===``` Equal Value And Type
 
-```!==``` : Not Equal Value Or Not Equal Type
+```!==``` Not Equal Value Or Not Equal Type
 
-```>``` : Greater Than
+```>``` Greater Than
 
-```<``` : Less Than
+```<``` Less Than
 
-```>=``` : Greater Than Or Equal To
+```>=``` Greater Than Or Equal To
 
-```<=``` : Less Than Or Equal To
+```<=``` Less Than Or Equal To
 
-```?``` : Ternary Operator
+```?``` Ternary Operator
