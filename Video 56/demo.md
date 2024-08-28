@@ -1,38 +1,86 @@
-# This is a Heading
+# Hello I am conditional tutorial
 
-## Solution Here
-
-### Run the following code on compiler
-
-### Assign Variable
 ```bash
-export ZONE=
-export MON_IDENT=
-export CLUSTER=
-export ORD_IDENT=
-export PROD_IDENT=
-export FRONT_IDENT=
+let age = 0
+let grace = 2
+
+console.log(age + grace)
+console.log(age - grace)
+console.log(age * grace)
+console.log(age / grace)
+console.log(age ** grace)
+console.log(age % grace)
 ```
-## Congratulations  for completing the Challenge Lab!
 
-### You have successfully demonstrated your skills and determination.
+## Conditional Statement
 
+```bash
+if ((age + grace) > 18) {
+    console.log("You can drive")
+}
+
+else if (age == 0) {
+    console.log("Are you kidding ?")
+}
+
+else {
+    console.log("You cannot drive")
+}
+console.log()
+```
+
+## Assignment Operator
+
+`=` x = y
+
+`+=` x = x + y
+
+`-=` x = x - y
+
+`*=` x = x \* y
+
+`/=` x = x / y
+
+`%` x = x % y
+
+`**` x = x \*\* y
 
 ## Comparison Operator
-```==``` Equal to
 
-```!=``` Not Equal to
+`==` Equal to
 
-```===``` Equal Value And Type
+`!=` Not Equal to
 
-```!==``` Not Equal Value Or Not Equal Type
+`===` Equal Value And Type
 
-```>``` Greater Than
+`!==` Not Equal Value Or Not Equal Type
 
-```<``` Less Than
+`>` Greater Than
 
-```>=``` Greater Than Or Equal To
+`<` Less Than
 
-```<=``` Less Than Or Equal To
+`>=` Greater Than Or Equal To
 
-```?``` Ternary Operator
+`<=` Less Than Or Equal To
+
+`?` Ternary Operator
+
+## Ternary Operator
+
+```bash
+let a = 6
+let b = 8
+let c = a > b ? (a - b) : (b - a)
+```
+
+`let c = a > b ? (a - b) : (b - a)`
+This Means
+
+```bash
+if (a > b) {
+    let c = a - b
+}
+else {
+    let c = b - a
+}
+```
