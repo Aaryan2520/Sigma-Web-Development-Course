@@ -1,6 +1,6 @@
 # This is a Heading
 
-### Solution Here
+## Solution Here
 
 ## Run the following code on compiler
 
