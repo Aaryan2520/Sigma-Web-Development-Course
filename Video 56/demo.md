@@ -18,5 +18,14 @@ export FRONT_IDENT=
 ### You have successfully demonstrated your skills and determination.
 
 
-## Here is Some Example :
-``` == ``` Equal To
+## Comparison Operator
+```  == ``` : Equal to
+```  != ``` : Not Equal to
+``` === ``` : Equal Value And Type
+``` !== ``` : Not Equal Value Or Not Equal Type
+```   > ``` : Greater Than
+```   < ``` : Less Than
+```  >= ``` : Greater Than Or Equal To
+```  <= ``` : Less Than Or Equal To
+```   ? ``` : Ternary Operator
+ */
