@@ -5,7 +5,7 @@
 ### Run the following code on compiler
 
 ### Assign Variable
-```
+```bash
 export ZONE=
 export MON_IDENT=
 export CLUSTER=
@@ -19,4 +19,6 @@ export FRONT_IDENT=
 
 
 ## Here is Some Example :
-``` == ``` 
+```bash
+ == 
+ ``` 
