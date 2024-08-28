@@ -14,4 +14,5 @@ export PROD_IDENT=
 export FRONT_IDENT=
 ```
 Congratulations  for completing the Challenge Lab!
+
 You have successfully demonstrated your skills and determination.
