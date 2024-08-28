@@ -31,7 +31,7 @@ console.log()
 
 ## Assignment Operator
 
-`=` x = y,
+`=` x = y;
 `+=` x = x + y
 
 `-=` x = x - y
