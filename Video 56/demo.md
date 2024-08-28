@@ -1,8 +1,8 @@
-## This is a Heading
+# This is a Heading
 
-** Solution Here **
+### ** Solution Here **
 
-Run the following code on compiler
+## Run the following code on compiler
 
 ### Assign Variable
 ```bash
@@ -13,6 +13,6 @@ export ORD_IDENT=
 export PROD_IDENT=
 export FRONT_IDENT=
 ```
-Congratulations  for completing the Challenge Lab!
+## Congratulations  for completing the Challenge Lab!
 
-You have successfully demonstrated your skills and determination.
+### You have successfully demonstrated your skills and determination.
