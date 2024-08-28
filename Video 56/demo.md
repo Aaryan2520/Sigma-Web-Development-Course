@@ -19,8 +19,7 @@ export FRONT_IDENT=
 
 
 ## Comparison Operator
-```==``` : Equal to
-
+```==``` : Equal to \n
 ```!=``` : Not Equal to
 ```===``` : Equal Value And Type
 ```!==``` : Not Equal Value Or Not Equal Type
