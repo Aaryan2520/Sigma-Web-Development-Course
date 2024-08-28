@@ -4,7 +4,7 @@
 
 ### Run the following code on compiler
 
-## Assign Variable
+### Assign Variable
 ```bash
 export ZONE=
 export MON_IDENT=
