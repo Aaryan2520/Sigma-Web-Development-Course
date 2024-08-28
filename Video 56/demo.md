@@ -25,7 +25,7 @@ export FRONT_IDENT=
 ```!== ``` : Not Equal Value Or Not Equal Type
 ```  > ``` : Greater Than
 ```  < ``` : Less Than
-``` >= ``` : Greater Than Or Equal To
-``` <= ``` : Less Than Or Equal To
-```  ? ``` : Ternary Operator
+```>=``` : Greater Than Or Equal To
+```<=``` : Less Than Or Equal To
+```?``` : Ternary Operator
  */
