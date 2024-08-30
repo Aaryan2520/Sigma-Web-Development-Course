@@ -45,3 +45,56 @@ do {
     console.log(n)
     n++
 } while (n < 10);
+
+
+// -----------------------------------------------------------------------------------------------------------
+console.log("Fresh Start")
+a = 1;
+for (let i = 1; i < 10; i++) {
+    console.log(a+i)
+}
+
+let Avg = {
+    Name: "Stark",
+    Role: "CEO",
+    Company: "Stark's Industry"
+}
+
+for (const key in Avg) {
+        const element = Avg[key];
+        
+        console.log()
+        console.log(key)
+
+        console.log()
+        console.log(element)
+        
+        console.log()
+        console.log(key+":",element)
+    }
+
+
+
+
+    for (const Ch of "The quick brown fox jumps over the lazy dog") {
+        console.log(Ch)
+    }
+
+console.log()
+    for (const Aph of "ABCDEFGHIJKLMNOPQRSTUVWXYZ") {
+        console.log(Aph)
+    }
+console.log()
+
+let i=1
+while (i<6) {
+    console.log(i)
+    i++
+}
+
+console.log()
+j=10;
+do {
+    console.log(j)
+    j++
+} while (j<6);
