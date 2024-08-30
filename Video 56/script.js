@@ -45,6 +45,14 @@ console.log()
  *      ? : Ternary Operator
  */
 
+
+/** Logical Operator
+ * && Logical And Operator
+ * || Logical Or Operator
+ *  ! Logical Not Operator
+ */
+
+
 // Ternary Operator
 let a = 6
 let b = 8
@@ -62,11 +70,3 @@ else {
 
 console.log(c)
 
-
-
-
-/** Logical Operator
- * && Logical And Operator
- * || Logical Or Operator
- *  ! Logical Not Operator
- */
