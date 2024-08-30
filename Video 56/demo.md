@@ -84,3 +84,13 @@ else {
     let c = b - a
 }
 ```
+
+
+
+## Logical Operator 
+
+`&&` Logical And Operator
+
+`||` Logical Or Operator
+
+`!` Logical Not operator
