@@ -61,3 +61,12 @@ else {
 */
 
 console.log(c)
+
+
+
+
+/** Logical Operator
+ * && Logical And Operator
+ * || Logical Or Operator
+ *  ! Logical Not Operator
+ */
